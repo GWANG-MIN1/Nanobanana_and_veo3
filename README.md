@@ -18,7 +18,10 @@
 
 ## 🖼️ Output (OP) Image
 
-<img width="266" height="271" alt="스크린샷 2025-09-09 215606" src="https://github.com/user-attachments/assets/4de0769d-9a32-45a7-89dd-49ab69d08f1c" />
+**OP Image**
+<img width="1024" height="1024" alt="Generated Image September 09, 2025 - 10_03PM" src="https://github.com/user-attachments/assets/6c88903d-d2d6-4ba6-a640-92185d319945" />
+
+
 
 **Prompt**  
 > 이 사람이 앞으로 걸어가고 있는 영상을 만들어줘.
